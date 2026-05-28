@@ -13,7 +13,7 @@ The platform combines:
 * Smart scheduling and route organization
 * Customer feedback and retention mechanisms
 
-The project was developed as part of the **ibTIECar Metaverse @ Creativa 2022 Semi Finals** competition. 
+The project was developed as part of the **ibTIECar Metaverse @ Creativa 2022 Finals** competition. 
 
 ---
 
@@ -267,11 +267,3 @@ Tranda aims to transform transportation accessibility in Egypt by building a sca
 * Live fleet tracking dashboard
 * Transportation analytics platform
 
----
-
-# 📷 Prototype & Demo
-
-* Landing page prototype
-* Transportation booking workflow
-* Early operational pilot testing
-* Community-driven validation campaigns 
